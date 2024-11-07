@@ -1,12 +1,14 @@
 ## Pandas-challenge
-- As a position of new Cheif Data Scientist for Citys School District, I have to complie a series of report to sturcture future school budgetes and prioriteies as described in Module 4 Challenge.pdf.
-- You will find my final report in PyCity School Analysisfinal.docx  or PyCityAnalysis.txt
 
+As the new Chief Data Scientist for the City School District, I need to prepare reports to help plan future school budgets and priorities.
 
+My final report can be found in written report.docx.
 
-   * In this repository you will find under resources folder two sets of csv raw data file derived from the School Distirct which are going to be under my analysis.
-   * Folder PyCitySchools you will find the code which I have derived from many sources to help navigate to our requirments.
-   * A File name Module 4 in a PDF format will be attached for more detail instruction on specific data that need to be calculated. 
+In the Resources folder, you'll find two raw CSV data files from the School District that I will analyze.
+
+In the PyCitySchools folder, there is code I've collected from different sources to help with the project.
+
+The tasks given to me are:
 
     * The task on hand given to me are :
 
